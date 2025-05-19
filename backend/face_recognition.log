@@ -1,0 +1,76 @@
+2025-03-31 13:30:24,910 - INFO - Initializing face recognition models...
+2025-03-31 13:30:25,662 - INFO - Models initialized on cpu
+2025-03-31 13:30:25,670 - INFO - Loading known faces...
+2025-03-31 13:30:26,002 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:26,003 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:26,048 - WARNING -  * Debugger is active!
+2025-03-31 13:30:26,068 - INFO -  * Debugger PIN: 235-715-503
+2025-03-31 13:30:43,465 - INFO - Reloading known faces...
+2025-03-31 13:30:43,648 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:43,649 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:43,826 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:43] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:45,454 - INFO - Reloading known faces...
+2025-03-31 13:30:45,590 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:45,592 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:45,732 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:45] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:47,451 - INFO - Reloading known faces...
+2025-03-31 13:30:47,618 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:47,619 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:47,644 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:47] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:49,463 - INFO - Reloading known faces...
+2025-03-31 13:30:49,619 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:49,620 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:49,641 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:49] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:51,460 - INFO - Reloading known faces...
+2025-03-31 13:30:51,607 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:51,608 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:51,760 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:51] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:53,452 - INFO - Reloading known faces...
+2025-03-31 13:30:53,622 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:53,623 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:53,762 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:53] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:55,462 - INFO - Reloading known faces...
+2025-03-31 13:30:55,633 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:55,634 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:55,775 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:55] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:57,450 - INFO - Reloading known faces...
+2025-03-31 13:30:57,609 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:57,610 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:57,799 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:57] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:30:59,457 - INFO - Reloading known faces...
+2025-03-31 13:30:59,630 - ERROR - Database error: unable to open database file
+2025-03-31 13:30:59,631 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:30:59,770 - INFO - 127.0.0.1 - - [31/Mar/2025 13:30:59] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:01,460 - INFO - Reloading known faces...
+2025-03-31 13:31:01,615 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:01,616 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:01,767 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:01] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:03,450 - INFO - Reloading known faces...
+2025-03-31 13:31:03,661 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:03,662 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:03,817 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:03] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:05,458 - INFO - Reloading known faces...
+2025-03-31 13:31:05,649 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:05,650 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:05,811 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:05] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:11,571 - INFO - Reloading known faces...
+2025-03-31 13:31:11,747 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:11,748 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:11,896 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:11] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:13,565 - INFO - Reloading known faces...
+2025-03-31 13:31:13,754 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:13,755 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:13,917 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:13] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:15,577 - INFO - Reloading known faces...
+2025-03-31 13:31:15,748 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:15,749 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:15,892 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:15] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:17,569 - INFO - Reloading known faces...
+2025-03-31 13:31:17,736 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:17,737 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:17,892 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:17] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:19,562 - INFO - Reloading known faces...
+2025-03-31 13:31:19,757 - ERROR - Database error: unable to open database file
+2025-03-31 13:31:19,758 - ERROR - No valid face encodings loaded! Check your images.
+2025-03-31 13:31:19,787 - INFO - 127.0.0.1 - - [31/Mar/2025 13:31:19] "POST /recognize HTTP/1.1" 200 -
+2025-03-31 13:31:28,802 - INFO -  * Detected change in 'C:\\Users\\Jeevan\\Documents\\Internship\\Smart_Attendance_System\\backend\\app.py', reloading
