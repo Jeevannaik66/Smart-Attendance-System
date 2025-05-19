@@ -1,7 +1,6 @@
 # 📸 Smart Attendance System using Face Recognition
 
-A **full‑stack attendance platform** that combines  
-**PHP + MySQL (web dashboard)** with a **Python / Flask + OpenCV (face‑recognition API)**.  
+A **full‑stack attendance platform** that combines  **PHP + MySQL (web dashboard)** with a **Python / Flask + OpenCV (face‑recognition API)**.  
 Users are recognised in real‑time, their presence is stored in a MySQL table, and administrators get an interactive web dashboard with charts, filters and data‑export tools.
 
 > **XAMPP on Windows workflow**  
